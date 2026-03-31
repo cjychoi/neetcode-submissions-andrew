@@ -13,6 +13,14 @@
 ## Solved Problems Summary
 
 <!-- START:SOLUTIONS_TABLE -->
+**Total problems solved:** 3
+**Total submissions:** 8
+
+| Topic | Problem | Language | Submissions | Path |
+|---|---|---|---:|---|
+| Data Structures & Algorithms | duplicate-integer | Python | 4 | `Data Structures & Algorithms/duplicate-integer/` |
+| Data Structures & Algorithms | is-anagram | Python | 3 | `Data Structures & Algorithms/is-anagram/` |
+| Data Structures & Algorithms | two-integer-sum | Python | 1 | `Data Structures & Algorithms/two-integer-sum/` |
 <!-- END:SOLUTIONS_TABLE -->
 
 ---
