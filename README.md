@@ -10,6 +10,13 @@
 
 ---
 
+## Solved Problems Summary
+
+<!-- START:SOLUTIONS_TABLE -->
+<!-- END:SOLUTIONS_TABLE -->
+
+---
+
 ## How GitHub Sync works
 
 1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
