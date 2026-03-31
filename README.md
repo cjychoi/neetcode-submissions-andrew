@@ -15,13 +15,13 @@
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
 - 🧩 **Problems Solved:** 3
-- 🚀 **Total Submissions:** 8
+- 🚀 **Total Submissions:** 9
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 3 |
-| Two Integer Sum | Python | 1 |
+| Two Integer Sum | Python | 2 |
 <!-- END:SOLUTIONS_TABLE -->
 
 ---
