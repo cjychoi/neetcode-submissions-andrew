@@ -67,22 +67,28 @@ def build_table(rows):
     if not rows:
         return "_No solutions found yet._"
 
+    # Header
     lines = [
-        "| Topic | Problem | Language | Submissions | Path |",
-        "|---|---|---|---:|---|",
+        "| 🧠 Problem | 💻 Language | 🔁 Submissions |",
+        "|----------|-------------|----------------|",
     ]
 
     for row in rows:
+        problem = row["problem"].replace("-", " ").title()
+        languages = row["languages"]
+        submissions = row["submissions"]
+
         lines.append(
-            f"| {row['topic']} | {row['problem']} | {row['languages']} | {row['submissions']} | {row['path']} |"
+            f"| {problem} | {languages} | {submissions} |"
         )
 
     total_problems = len(rows)
     total_submissions = sum(r["submissions"] for r in rows)
 
     summary = [
-        f"**Total problems solved:** {total_problems}",
-        f"**Total submissions:** {total_submissions}",
+        f"### 📊 Summary",
+        f"- 🧩 **Problems Solved:** {total_problems}",
+        f"- 🚀 **Total Submissions:** {total_submissions}",
         "",
     ]
 
