@@ -15,12 +15,12 @@
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
 - 🧩 **Problems Solved:** 3
-- 🚀 **Total Submissions:** 10
+- 🚀 **Total Submissions:** 11
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
 | Duplicate Integer | Python | 4 |
-| Is Anagram | Python | 3 |
+| Is Anagram | Python | 4 |
 | Two Integer Sum | Python | 3 |
 <!-- END:SOLUTIONS_TABLE -->
 
