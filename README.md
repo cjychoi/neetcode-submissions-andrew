@@ -14,11 +14,12 @@
 
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
-- 🧩 **Problems Solved:** 3
-- 🚀 **Total Submissions:** 12
+- 🧩 **Problems Solved:** 4
+- 🚀 **Total Submissions:** 13
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
+| Anagram Groups | Python | 1 |
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 5 |
 | Two Integer Sum | Python | 3 |
