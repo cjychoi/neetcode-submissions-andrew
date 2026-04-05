@@ -15,11 +15,11 @@
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
 - 🧩 **Problems Solved:** 4
-- 🚀 **Total Submissions:** 13
+- 🚀 **Total Submissions:** 14
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
-| Anagram Groups | Python | 1 |
+| Anagram Groups | Python | 2 |
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 5 |
 | Two Integer Sum | Python | 3 |
