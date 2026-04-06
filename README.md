@@ -14,14 +14,15 @@
 
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
-- 🧩 **Problems Solved:** 5
-- 🚀 **Total Submissions:** 15
+- 🧩 **Problems Solved:** 6
+- 🚀 **Total Submissions:** 16
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
 | Anagram Groups | Python | 2 |
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 5 |
+| Is Palindrome | Python | 1 |
 | Top K Elements In List | Python | 1 |
 | Two Integer Sum | Python | 3 |
 <!-- END:SOLUTIONS_TABLE -->
