@@ -14,8 +14,8 @@
 
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
-- 🧩 **Problems Solved:** 6
-- 🚀 **Total Submissions:** 25
+- 🧩 **Problems Solved:** 7
+- 🚀 **Total Submissions:** 26
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
@@ -23,6 +23,7 @@
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 5 |
 | Is Palindrome | Python | 10 |
+| Three Integer Sum | Python | 1 |
 | Top K Elements In List | Python | 1 |
 | Two Integer Sum | Python | 3 |
 <!-- END:SOLUTIONS_TABLE -->
