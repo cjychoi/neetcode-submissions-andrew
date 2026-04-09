@@ -15,7 +15,7 @@
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
 - 🧩 **Problems Solved:** 8
-- 🚀 **Total Submissions:** 33
+- 🚀 **Total Submissions:** 34
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
@@ -23,7 +23,7 @@
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 5 |
 | Is Palindrome | Python | 10 |
-| Max Water Container | Python | 4 |
+| Max Water Container | Python | 5 |
 | Three Integer Sum | Python | 4 |
 | Top K Elements In List | Python | 1 |
 | Two Integer Sum | Python | 3 |
