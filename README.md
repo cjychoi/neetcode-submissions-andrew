@@ -14,8 +14,8 @@
 
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
-- 🧩 **Problems Solved:** 9
-- 🚀 **Total Submissions:** 37
+- 🧩 **Problems Solved:** 10
+- 🚀 **Total Submissions:** 38
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
@@ -24,6 +24,7 @@
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 5 |
 | Is Palindrome | Python | 10 |
+| Longest Substring Without Duplicates | Python | 1 |
 | Max Water Container | Python | 6 |
 | Three Integer Sum | Python | 4 |
 | Top K Elements In List | Python | 1 |
