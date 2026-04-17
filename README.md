@@ -15,12 +15,12 @@
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
 - 🧩 **Problems Solved:** 11
-- 🚀 **Total Submissions:** 46
+- 🚀 **Total Submissions:** 47
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
 | Anagram Groups | Python | 2 |
-| Binary Search | Python | 4 |
+| Binary Search | Python | 5 |
 | Buy And Sell Crypto | Python | 2 |
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 5 |
