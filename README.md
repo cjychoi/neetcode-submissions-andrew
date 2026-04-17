@@ -14,12 +14,13 @@
 
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
-- 🧩 **Problems Solved:** 10
-- 🚀 **Total Submissions:** 42
+- 🧩 **Problems Solved:** 11
+- 🚀 **Total Submissions:** 43
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
 | Anagram Groups | Python | 2 |
+| Binary Search | Python | 1 |
 | Buy And Sell Crypto | Python | 2 |
 | Duplicate Integer | Python | 4 |
 | Is Anagram | Python | 5 |
