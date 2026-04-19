@@ -14,8 +14,8 @@
 
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
-- 🧩 **Problems Solved:** 12
-- 🚀 **Total Submissions:** 51
+- 🧩 **Problems Solved:** 13
+- 🚀 **Total Submissions:** 52
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
@@ -23,6 +23,7 @@
 | Binary Search | Python | 5 |
 | Buy And Sell Crypto | Python | 2 |
 | Duplicate Integer | Python | 4 |
+| Eating Bananas | Python | 1 |
 | Is Anagram | Python | 5 |
 | Is Palindrome | Python | 10 |
 | Longest Substring Without Duplicates | Python | 5 |
