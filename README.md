@@ -15,7 +15,7 @@
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
 - 🧩 **Problems Solved:** 12
-- 🚀 **Total Submissions:** 48
+- 🚀 **Total Submissions:** 49
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
@@ -27,7 +27,7 @@
 | Is Palindrome | Python | 10 |
 | Longest Substring Without Duplicates | Python | 5 |
 | Max Water Container | Python | 6 |
-| Search 2D Matrix | Python | 1 |
+| Search 2D Matrix | Python | 2 |
 | Three Integer Sum | Python | 4 |
 | Top K Elements In List | Python | 1 |
 | Two Integer Sum | Python | 3 |
