@@ -15,7 +15,7 @@
 <!-- START:SOLUTIONS_TABLE -->
 ### 📊 Summary
 - 🧩 **Problems Solved:** 13
-- 🚀 **Total Submissions:** 61
+- 🚀 **Total Submissions:** 62
 
 | 🧠 Problem | 💻 Language | 🔁 Submissions |
 |----------|-------------|----------------|
@@ -31,7 +31,7 @@
 | Search 2D Matrix | Python | 4 |
 | Three Integer Sum | Python | 4 |
 | Top K Elements In List | Python | 1 |
-| Two Integer Sum | Python | 3 |
+| Two Integer Sum | Python | 4 |
 <!-- END:SOLUTIONS_TABLE -->
 
 ---
